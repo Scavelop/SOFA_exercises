@@ -12,7 +12,7 @@ Instructions:
      
 After generating all the sounds, this script plots 4 figures :
 
-  Figure 1. The Gaussian white noise burst used to create the following sound trajectories. 
+  Figure 1. The spectrogram of the Gaussian white noise burst used to create the following sound trajectories. 
 
    Figure 2. Spectrograms of an horizontal Clockwise Rotation: The noise burst rotates around the listener at a distance of 1 meter, varying azimuth from 0° to 360°. One spectrogram per ear (2 subplots). 
 
