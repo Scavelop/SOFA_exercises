@@ -5,7 +5,7 @@ CONTROL package.
 
 Instructions:
 
-   1. Enter the initial datapath line 3 and ensure the HRTF data file (SCUT_KEMAR_radius_all.sofa) is located in this data path. If not found, the script prompts the user to enter the correct data path directly in the command prompt, until it can find the proper file to execute the script.
+   1. Enter the initial datapath line 4 and ensure the HRTF data file (SCUT_KEMAR_radius_all.sofa) is located in this data path. If not found, the script prompts the user to enter the correct data path directly in the command prompt, until it can find the proper file to execute the script.
 
    2. Run the script in MATLAB or Octave (preferably Octave 9.2.0).
      
