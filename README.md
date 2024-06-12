@@ -20,3 +20,4 @@ After generating all the sounds, this script plots 4 figures :
 
   Figure 4. Spectrograms of an approach from Front: The noise burst approaches from the front with a fixed azimuth of 0°, and the radius decreases from 1 meter to 0.2 meters. One spectrogram per ear (2 subplots). 
     
+Disclaimer: This script is developed solely for the purpose of practicing using the Sofatoolbox as part of an interview process. It is not intended for any other use, including research or other applications.
