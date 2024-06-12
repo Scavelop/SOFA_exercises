@@ -1,3 +1,5 @@
+%% Written on Octave version 9.2.0,
+%% 
 %% Define an existing data path
 % Initial data path - Please enter your local data path here
 dataPath = '/Users/sophi1/SOFAOctave/data/SCUT';
